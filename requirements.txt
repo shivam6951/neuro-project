@@ -1,8 +1,8 @@
 streamlit
 numpy
 pillow
-tensorflow-cpu==2.10.0  # Use CPU version to avoid GPU issues in Streamlit Cloud
-opencv-python-headless  # This installs cv2
+tensorflow-cpu>=2.16.0  # Compatible with Python 3.12
+opencv-python-headless  # Fixes cv2 issue
 plotly
 requests
 pyperclip
