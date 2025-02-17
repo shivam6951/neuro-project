@@ -1,0 +1,9 @@
+streamlit
+numpy
+pillow
+tensorflow
+opencv-python
+plotly
+requests
+pyperclip
+cv2
